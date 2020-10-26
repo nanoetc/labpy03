@@ -1,1 +1,1 @@
-“# praktikum phyton”
+# praktikum phyton
